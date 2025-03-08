@@ -1,0 +1,22 @@
+#fact{
+  background-color: rgb(196, 225, 255);  
+}
+#btn
+{
+    background-color: blueviolet;
+}
+#btn:hover{
+    border-radius: 25%;
+    opacity:2;
+    cursor:pointer;
+    background-color:rgb(36, 223, 15);
+}
+body{
+    background-color: blanchedalmond;
+}
+.class1
+{display:flex;
+    justify-content: center;
+    align-items: center;
+  background-color: aqua;
+}
